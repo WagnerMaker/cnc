@@ -1,3 +1,4 @@
+# EM PREPARAÇÃO
 # 🛠 Curso de CNC Laser - WagnerMaker
 
 Bem-vindo ao repositório oficial do **Curso de CNC Laser** ministrado por **WagnerMaker**. Aqui você encontrará todo o material relacionado ao curso, incluindo:
