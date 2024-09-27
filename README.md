@@ -4,7 +4,6 @@
 Bem-vindo ao repositório oficial do **Curso de CNC Laser** ministrado por **WagnerMaker**. Aqui você encontrará todo o material relacionado ao curso, incluindo:
 
  - **Aula 1 - Tipos de CNC [WagnerMaker](https://www.youtube.com/watch?v=XZ3In0TK5zU)**
- - Em breve as proximas aulas.
  - **Aula 2 - Tipos de Laser em breve**
  - 
 - 📚 **Materiais Didáticos e Aulas**
